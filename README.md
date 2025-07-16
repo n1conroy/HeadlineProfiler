@@ -35,6 +35,8 @@ News organizations and research teams increasingly need scalable tools to organi
 - Data ingestion and preprocessing modules  
 - NLP feature extraction (e.g., keyword extraction, embeddings)  
 - Unsupervised clustering and topic modeling implementations  
-- Utilities for real-time data handling and streaming  
+- Utilities for real-time data handling and streaming
+
+![Nadia Logo](HeadlinerPipeline.png)
 
 _Note: This project currently represents a layered research pipeline with code complexity but does not yet have a cohesive user-facing application._
